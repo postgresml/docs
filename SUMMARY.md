@@ -50,6 +50,8 @@
   * [PostgresML is 8-40x faster than Python HTTP microservices](benchmarks/postgresml-is-8-40x-faster-than-python-http-microservices.md)
   * [Million Requests per Second](benchmarks/million-requests-per-second.md)
   * [MindsDB vs PostgresML](benchmarks/mindsdb-vs-postgresml.md)
+  * [GGML Quantized LLM support for Huggingface Transformers](benchmarks/ggml-quantized-llm-support-for-huggingface-transformers.md)
+  * [Making Postgres 30 Percent Faster in Production](benchmarks/making-postgres-30-percent-faster-in-production.md)
 * [Monitoring](monitoring.md)
 * [FAQs](faqs.md)
 * [Developer Docs](developer-docs/README.md)
