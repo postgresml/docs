@@ -41,6 +41,7 @@
 * [Use cases](use-cases/README.md)
   * [Semantic Search](use-cases/semantic-search.md)
   * [Hybrid Search](use-cases/hybrid-search.md)
+  * [Improve Search Results with Machine Learning](use-cases/improve-search-results-with-machine-learning.md)
   * [Recommendation Engine](use-cases/recommendation-engine.md)
   * [Fraud Detection](use-cases/fraud-detection.md)
   * [Price Optimization](use-cases/price-optimization.md)
