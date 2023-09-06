@@ -12,6 +12,6 @@ description: Page to navigate to any part of documentation
 * [sdks](sdks/ "mention")
 * [chatbots.md](apps/chatbots.md "mention")
 * [use-cases](use-cases/ "mention")
-* [benchmarks.md](benchmarks.md "mention")
+* [benchmarks](benchmarks/ "mention")
 * [monitoring.md](monitoring.md "mention")
 * [developer-docs](developer-docs/ "mention")
