@@ -4,7 +4,7 @@ description: Nextgen PostgreSQL Pooler
 
 # PgCat
 
-PgCat is PostgreSQL pooler and proxy (like PgBouncer) with support for sharding, load balancing, failover and mirroring.
+PgCat is a PostgreSQL pooler and proxy (like PgBouncer) with support for sharding, load balancing, failover and mirroring.
 
 ## Features
 
