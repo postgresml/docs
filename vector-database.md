@@ -18,7 +18,7 @@ Let's break down each step in more detail.
 
 To create embeddings for your data, you first need to choose a transformer that can generate embeddings from your input data. Some popular transformer options include BERT, GPT-2, and T5. Once you've selected a transformer, you can use it to generate embeddings for your data.
 
-In the following section, we will demonstrate how to use PostgresML to generate embeddings for a dataset of tweets commonly used in sentiment analysis. To generate the embeddings, we will use the `pgml.embed` function, which was discussed in [embeddings.md](natural-language-processing/embeddings.md "mention"). These embeddings will then be inserted into a table called tweet\_embeddings.
+In the following section, we will demonstrate how to use PostgresML to generate embeddings for a dataset of tweets commonly used in sentiment analysis. To generate the embeddings, we will use the `pgml.embed` function, which was discussed in [embeddings.md](machine-learning/natural-language-processing/embeddings.md "mention"). These embeddings will then be inserted into a table called tweet\_embeddings.
 
 ```sql
 SELECT pgml.load_dataset('tweet_eval', 'sentiment');

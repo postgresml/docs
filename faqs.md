@@ -1,8 +1,8 @@
 ---
-description: PostgresML Overview
+description: PostgresML Frequently Asked Questions
 ---
 
-# Overview
+# FAQs
 
 * What is PostgresML?&#x20;
 * What is a DB extension?&#x20;
