@@ -44,7 +44,7 @@
   * [Fraud Detection](use-cases/fraud-detection.md)
   * [Price Optimization](use-cases/price-optimization.md)
   * [Sales Recommendation](use-cases/sales-recommendation.md)
-* [Horizontal Scaling](horizontal-scaling.md)
+* [PgCat](pgcat.md)
 * [Benchmarks](benchmarks.md)
 * [Monitoring](monitoring.md)
 * [FAQs](faqs.md)
