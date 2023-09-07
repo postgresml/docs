@@ -2,10 +2,6 @@
 
 
 
-Montana Low
-
-April 28, 2023
-
 PostgresML makes it easy to generate embeddings using open source models and perform complex queries with vector indexes unlike any other database. The full expressive power of SQL as a query language is available to seamlessly combine semantic, geospatial, and full text search, along with filtering, boosting, aggregation, and ML reranking in low latency use cases. You can do all of this faster, simpler and with higher quality compared to applications built on disjoint APIs like OpenAI + Pinecone. Prove the results in this series to your own satisfaction, for free, by signing up for a GPU accelerated database.
 
 ## Introduction
