@@ -43,6 +43,7 @@
   * [Fraud Detection](apps/fraud-detection.md)
   * [Recommendation Engine](apps/recommendation-engine.md)
   * [Search](apps/search.md)
+  * [Time-series Forecasting](apps/time-series-forecasting.md)
 * [Use cases](use-cases/README.md)
   * [Improve Search Results with Machine Learning](use-cases/improve-search-results-with-machine-learning.md)
   * [Generating LLM embeddings with open source models in PostgresML](use-cases/generating-llm-embeddings-with-open-source-models-in-postgresml.md)
